@@ -1,0 +1,15 @@
+/workspaces/projmaker/ProjMaker v0.1 Early Dev/bin/Debug/net7.0/ProjMaker v0.1 Early Dev
+/workspaces/projmaker/ProjMaker v0.1 Early Dev/bin/Debug/net7.0/ProjMaker v0.1 Early Dev.deps.json
+/workspaces/projmaker/ProjMaker v0.1 Early Dev/bin/Debug/net7.0/ProjMaker v0.1 Early Dev.runtimeconfig.json
+/workspaces/projmaker/ProjMaker v0.1 Early Dev/bin/Debug/net7.0/ProjMaker v0.1 Early Dev.dll
+/workspaces/projmaker/ProjMaker v0.1 Early Dev/bin/Debug/net7.0/ProjMaker v0.1 Early Dev.pdb
+/workspaces/projmaker/ProjMaker v0.1 Early Dev/obj/Debug/net7.0/ProjMaker v0.1 Early Dev.csproj.AssemblyReference.cache
+/workspaces/projmaker/ProjMaker v0.1 Early Dev/obj/Debug/net7.0/ProjMaker v0.1 Early Dev.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/projmaker/ProjMaker v0.1 Early Dev/obj/Debug/net7.0/ProjMaker v0.1 Early Dev.AssemblyInfoInputs.cache
+/workspaces/projmaker/ProjMaker v0.1 Early Dev/obj/Debug/net7.0/ProjMaker v0.1 Early Dev.AssemblyInfo.cs
+/workspaces/projmaker/ProjMaker v0.1 Early Dev/obj/Debug/net7.0/ProjMaker v0.1 Early Dev.csproj.CoreCompileInputs.cache
+/workspaces/projmaker/ProjMaker v0.1 Early Dev/obj/Debug/net7.0/ProjMaker v0.1 Early Dev.dll
+/workspaces/projmaker/ProjMaker v0.1 Early Dev/obj/Debug/net7.0/refint/ProjMaker v0.1 Early Dev.dll
+/workspaces/projmaker/ProjMaker v0.1 Early Dev/obj/Debug/net7.0/ProjMaker v0.1 Early Dev.pdb
+/workspaces/projmaker/ProjMaker v0.1 Early Dev/obj/Debug/net7.0/ProjMaker v0.1 Early Dev.genruntimeconfig.cache
+/workspaces/projmaker/ProjMaker v0.1 Early Dev/obj/Debug/net7.0/ref/ProjMaker v0.1 Early Dev.dll
